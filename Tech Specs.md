@@ -4,9 +4,10 @@ title: About
 permalink: /Tech/
 ---
 
-#Tech Specs
+# Tech Specs
 How this site was built
-##Built Using
+
+## Built Using
 Jekyll
 Github Pages
 Chromebook
