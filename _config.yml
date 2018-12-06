@@ -15,7 +15,7 @@ description: > # "This is a site for my Web Design and Development class in Mayn
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://maynard-schools.github.io/jekyll-setup-NIkko41/" # the base hostname & protocol for your site
 twitter_username: Taffyer 
-github_username:  wild-flame 
+github_username:  Nikko41 
 
 # Build settings
 markdown: kramdown
